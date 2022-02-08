@@ -5,11 +5,13 @@
     "version_name": "development",
     "applications": {
         "gecko": {
+            "id": "bergamot_translations+experimental@browser.mt",
             "strict_min_version": "79.0"
         }
     },
     "browser_specific_settings": {
       "gecko": {
+        "id": "bergamot_translations+experimental@browser.mt",
         "strict_min_version": "79.0"
       }
     },
